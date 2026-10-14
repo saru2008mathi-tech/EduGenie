@@ -1,6 +1,7 @@
-import streamlit as st
-import google.generativeai as genai
-
+streamlit
+google-generativeai
+groq
+python-dotenv
 # Page settings
 st.set_page_config(
     page_title="EduGenie",
